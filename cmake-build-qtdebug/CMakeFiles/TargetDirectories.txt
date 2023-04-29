@@ -1,0 +1,5 @@
+C:/Users/shenjiawei/CLionProjects/untitled4/cmake-build-qtdebug/CMakeFiles/untitled4.dir
+C:/Users/shenjiawei/CLionProjects/untitled4/cmake-build-qtdebug/CMakeFiles/edit_cache.dir
+C:/Users/shenjiawei/CLionProjects/untitled4/cmake-build-qtdebug/CMakeFiles/rebuild_cache.dir
+C:/Users/shenjiawei/CLionProjects/untitled4/cmake-build-qtdebug/CMakeFiles/untitled4_autogen_timestamp_deps.dir
+C:/Users/shenjiawei/CLionProjects/untitled4/cmake-build-qtdebug/CMakeFiles/untitled4_autogen.dir
